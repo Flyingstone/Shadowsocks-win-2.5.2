@@ -1,9 +1,9 @@
 {
 "configs" : [
   {
-"server" : "172.96.249.115",
-"server_port" : 443,
-"password" : "LDLxlOF5Od",
+"server" : "douniwan",
+"server_port" : 111,
+"password" : "zaijian",
 "method" : "aes-256-cfb",
 "remarks" : ""}
 
